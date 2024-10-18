@@ -1,5 +1,5 @@
 # lpersre
-## 简要介绍
+## 想学学不动
 ###
 [github地址](https://github.com/lpersre/first.git)
 
