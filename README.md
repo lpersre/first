@@ -1,6 +1,6 @@
 <div id="title" align=center>
 
-### [lpersre(https://github.com/lpersre)]
+## [lpersre](https://github.com/lpersre)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpersre&show_icons=true&theme=tokyonight)]
 
